@@ -1,3 +1,11 @@
 .h1 {
-    color:brown;
+    color:rgb(170, 131, 131);
+}
+div {
+    color:beige(241, 241, 220)
+
+}
+body {
+    background-color: bisque;
+
 }
